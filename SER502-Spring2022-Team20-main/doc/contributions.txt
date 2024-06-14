@@ -1,0 +1,86 @@
+TEAM 20:
+Janardhan R.
+Michael M.
+Maaz A.
+Shantanu G.
+Ashik E.
+
+Group members foucs areas:
+Janardhan R. - focus on working the parser and interpreter
+Michael M. - focus on parser, interpreter, testing
+Maaz A. - focus on lexical, parser, and interpreter
+Shantanu G - focus on the lexical for the moment
+Ashik E. - focus on the parser, interpreter, testing
+
+
+March 31
+All members participated and discussed on how to work in the project via a Zoom meeting.
+
+April 4
+Michael M. - Wrote the basic description of the language document.
+
+April 5
+Janardhan R - Made few changes to the language document and created a basic DCG for the language DReaM
+
+April 6
+Janardhan R - Created a BNF for the language DReaM
+
+April 6 
+Shantanu O. - added incrementer decrementer operator also added BNF for it.
+
+April 6
+Shantanu O. - added evaluator details.
+
+April 6
+Ashik E. - Generating a parse tree for the grammar in the language
+Maaz Ahmed. - Added lexer, parser and interpreter details to the language document.
+
+April 6
+Michael M. - Reviewing and adding a comment struct.
+
+April 15
+Michael M. - Working with the lexical.
+
+April 16
+Michael M. - Working with the DCG grammer.
+
+April 18
+Michael M. - Working with the DCG grammer.
+
+April 19
+Michael M. - Working with DCG grammer and evaluator.
+Maaz Ahmed - Worked with the evaluator
+
+April 20
+Michael M. - Working with grammer and evaluator.
+
+April 21
+Michael M. - Working with grammer and evaluator.
+
+April 22
+Shantanu O.- worked on Tokenizer with Michael to make dcg and java code for it
+
+April 23
+Janardhan R - Updated the patch to grammer and evaluation
+
+April 23
+Maaz Ahmed - Updated the editorWindow UI and other
+
+April 24
+Maaz Ahmed - Fixed evaluation and test files
+Maaz Ahmed - Fixes to boolean and few other evaluations
+shantanu O.- added more detailed program to show our programs new feature
+Janardhan R- Fixed For loop evaluation
+
+April 24-25
+Michael M - testing and fixing. Updating the language specification document.
+
+April 25
+Maaz Ahmed - Fixing executor class, UI modification and minor bug fixes 
+Michael M - preparing presentations and did small bug fix.
+
+April 28
+Shantanu O.- Added JavaDoc to the all the java files
+
+April 29
+Shantanu O.- Added Save as button
